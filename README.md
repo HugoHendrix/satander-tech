@@ -1,6 +1,8 @@
 ![alt-text](capa-readme.png)
 
-# 🚀 Santander TECH + - Trilha Front-End  
+# 🚀 Santander TECH + 
+
+### Trilha Front-End  
  
 Este repositório foi criado para documentar minha jornada no programa **Santander Open Academy**, realizado em parceria com a **Ada Tech**. Fui selecionado para participar da trilha de **Front-End**, onde estou aprimorando minhas habilidades e explorando novas tecnologias para minha carreira como desenvolvedor.  
  
