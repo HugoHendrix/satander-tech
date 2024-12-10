@@ -1,6 +1,3 @@
-Aqui estão as explicações para os tópicos mencionados:  
-
----
 
 ### **1. Pascalina, multiplicação e divisão**
 A **Pascalina** foi uma das primeiras calculadoras mecânicas, inventada em 1642 por **Blaise Pascal**, matemático e filósofo francês.  
