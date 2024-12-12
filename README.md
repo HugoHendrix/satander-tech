@@ -1,4 +1,4 @@
-![alt-text](capa-readme2.png)
+![Capa do programa SantanderTech+](capa-readme2.png)
 
 # 🚀 Santander TECH + 
 
@@ -44,4 +44,4 @@ Aqui serão registrados os projetos, exercícios e anotações realizados ao lon
 Agradeço ao Santander e à Ada Tech pela oportunidade de participar deste programa transformador.  
 
 
-![alt-text](capa-readme.png)
+![Capa do programa SantanderTech+](capa-readme.png)
