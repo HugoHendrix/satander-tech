@@ -1,4 +1,4 @@
-![alt-text](capa-readme.png)
+![alt-text](capa-readme2.png)
 
 # 🚀 Santander TECH + 
 
@@ -43,3 +43,5 @@ Aqui serão registrados os projetos, exercícios e anotações realizados ao lon
 ## ✨ Agradecimentos  
 Agradeço ao Santander e à Ada Tech pela oportunidade de participar deste programa transformador.  
 
+
+![alt-text](capa-readme.png)
