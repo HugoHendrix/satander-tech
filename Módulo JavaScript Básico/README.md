@@ -21,13 +21,13 @@ Desenvolver esse tipo de raciocínio nos permite pensar de maneira mais estrutur
 Importância da lógica na programação
 Assim como na vida real, organizamos uma sequência de passos lógicos para realizar tarefas diárias. Um exemplo, é quando vamos trocar uma lâmpada: o passo a passo que seguimos é, basicamente: 
 
-1 - Desligar a lâmpada
-2 - Pegar a lâmpada nova
-3 - Pegar a escada
-4 - Subir na escada
-5 - Remover a lâmpada antiga
-6 - Colocar a lâmpada nova
-7- Testar se deu certo
+- 1 - Desligar a lâmpada
+- 2 - Pegar a lâmpada nova
+- 3 - Pegar a escada
+- 4 - Subir na escada
+- 5 - Remover a lâmpada antiga
+- 6 - Colocar a lâmpada nova
+- 7 - Testar se deu certo
 
 O mesmo tipo de raciocínio sequencial pode ser aplicado para situações na computação, como por exemplo, quando fazemos uma transferência entre contas, ou uma compra em um e-commerce. Os passos são diferentes, mas o raciocínio é o mesmo.
 
